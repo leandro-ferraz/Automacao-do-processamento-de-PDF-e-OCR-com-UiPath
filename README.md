@@ -1,5 +1,5 @@
 # Automacao-do-processamento-de-PDF-e-OCR-com-UiPath
-Automação no UiPath para processar faturas em PDF (pesquisável ou imagem) e guardar os  dados relevantes em planilha excel.
+Automação no UiPath para processar faturas em PDF (pesquisável ou imagem) e guardar os  dados relevantes em planilha excel usando RegEx.
 
 Requisitos:
 1. Baixar os pacotes do UiPath (se for o caso):
